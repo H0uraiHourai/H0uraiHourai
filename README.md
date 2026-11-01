@@ -1,6 +1,6 @@
 Just some random person browsing through programming stuff and Linux stuff.
 
-I hope I can contribute for some any code I want, or just creating projects at my own. At the moment, i'm doing a website project that will be used for a diary and to write some things i'm doing to make the website how it is now. For now, it's private, but I will put it public in some day, idk.
+I hope I can contribute for some any code I want, or just creating projects at my own. At the moment, i'm doing a website project that will be used for a diary and to write some things i'm doing to make the website is working. For now, it's private, but I will put it public in some day, idk.
 
 I'm still starting in programming, so yeah, still learning! And I hope to get better at this and not rely too much on AI. I'm learning Python, HTML and CSS, but I want to try C, C++, Rust, Ruby (it's like Python, almost, but whatever), etc. 
 
